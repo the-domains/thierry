@@ -1,7 +1,7 @@
 name: thierry
 favicon: null
-layout_spectrum: 0.31664126296527684
-typography_spectrum: 0.8822569965850562
+layout_spectrum: 1
+typography_spectrum: 0.28293
 title: 'Thierry De Vynck, Creative Strategy'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.4046072328928858
-  lightness: 0.5392693700268865
-  saturation: 0.02659564442001283
-  rhythmicContrast: 0.861523864325136
+    - '#ffffff'
+    - '#000004'
+    - '#c0c3cc'
+    - '#6f777a'
+    - '#b21841'
+  brandStrength: 0.4375
+  lightness: 0.8125
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
