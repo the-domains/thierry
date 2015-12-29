@@ -1,0 +1,28 @@
+name: thierry
+favicon: null
+layout_spectrum: 0.31664126296527684
+typography_spectrum: 0.8822569965850562
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4046072328928858
+  lightness: 0.5392693700268865
+  saturation: 0.02659564442001283
+  rhythmicContrast: 0.861523864325136
+purpose: []
